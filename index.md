@@ -5,5 +5,5 @@
 [ダウンロード](https://github.com/Fuyutsubaki/tieclicker/raw/master/tie_clicker.zip)
 
 
-twitter:: @Fuyutsubaki
+twitter:: @Fuyutsubaki  
 HP:: http://txt-txt.hateblo.jp/
